@@ -5,7 +5,7 @@
   "source": "index.html",
   "scripts": {
     "start": "parcel index.html && parcel watch index.html ",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html --dist-dir ./dist"
   },
   "keywords": [
     "forkify"
