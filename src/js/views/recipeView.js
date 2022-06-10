@@ -133,7 +133,8 @@ class RecipeView extends View {
       <div class="recipe__quantity">${
         ingredient.quantity === 0 || ingredient.quantity === null
           ? ''
-          : new Fraction(ingredient.quantity).toString()
+          : // : new Fraction(ingredient.quantity).toString()
+            ingredient.quantity
       }</div>
       <div class="recipe__description">
         <span class="recipe__unit">${ingredient.unit}</span>

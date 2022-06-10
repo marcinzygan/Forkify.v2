@@ -1,4 +1,5 @@
 import iconSvg from '../../img/icons.svg';
+
 export default class View {
   _data = '';
 
