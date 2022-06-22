@@ -4,8 +4,8 @@
 
 # Search and get ideas for your meal / over 1 000 000 recipes .
 
-This Project was done as a part of Udemy JavaScript Course Made in JavaScript while learning . June 2022
-The HTML and CSS was provided .
+- This Project was done as a part of Udemy JavaScript Course Made in JavaScript while learning . June 2022
+- The HTML and CSS was provided .
 
 # Features implemented :
 
